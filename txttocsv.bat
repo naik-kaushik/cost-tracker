@@ -1,0 +1,1 @@
+@py.exe D:\!scrap\txttocsv.py %*
